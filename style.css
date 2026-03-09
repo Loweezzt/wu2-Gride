@@ -5,3 +5,7 @@
 		display: inline-grid;
 		place-content: center;
 }
+.grid-container {
+        display: grid;
+        grid-template-rows: 50px 100px;
+}
